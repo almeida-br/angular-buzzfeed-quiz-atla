@@ -1,0 +1,65 @@
+{
+  "title":"Quiz Avatar: a lenda de Aang",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual dessas opções não é uma subdobra da terra?",
+      "options":[
+        {"id": 1, "name":"Areia","correct":0},
+        {"id": 2, "name":"Vidro","correct":0},
+        {"id": 3, "name":"Plantas","correct":1},
+        {"id": 4, "name":"Metal","correct":0}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Escolha a ordem correta dos elementos:",
+      "options":[
+        {"id": 1, "name":"Terra ar fogo agua", "correct":0},
+        {"id": 2, "name":"Água terra fogo ar", "correct":1},
+        {"id": 3, "name":"Ar fogo terra agua", "correct":0},
+        {"id": 4, "name":"Terra fogo agua ar", "correct":0}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Quantos anos viveu a avatar Kyoshi?",
+      "options":[
+        {"id": 1, "name":"120", "correct":0},
+        {"id": 2, "name":"80", "correct":0},
+        {"id": 3, "name":"223", "correct":0},
+        {"id": 4, "name":"230", "correct":1}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o nome do bisão voador que acompanha Aang?",
+      "options":[
+        {"id": 1, "name":"Appa", "correct":1},
+        {"id": 2, "name":"Oppe", "correct":0},
+        {"id": 3, "name":"Yip", "correct":0},
+        {"id": 4, "name":"Umi", "correct":0}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Quantos templos do ar existem?",
+      "options":[
+        {"id": 1, "name":"1", "correct":0},
+        {"id": 2, "name":"2", "correct":0},
+        {"id": 3, "name":"3", "correct":1},
+        {"id": 4, "name":"4", "correct":0}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Qual desses personagens conquistou uma cidade em um dia?",
+      "options":[
+        {"id": 1, "name":"Azula", "correct":1},
+        {"id": 2, "name":"Iroh", "correct":0},
+        {"id": 3, "name":"Ozai", "correct":0},
+        {"id": 4, "name":"Bumi", "correct":0}
+      ]
+    }
+  ]
+}

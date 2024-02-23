@@ -1,0 +1,16 @@
+<div class="question_container">
+    <h1>{{title}}</h1>
+    <div *ngIf="result==''" class="question">
+        <h1>{{curQuestion.question}}</h1>
+    </div>
+    <div *ngIf="result==''" class="options">
+        <ul>
+            <li *ngFor="let option of curQuestion.options; let i=index" (click)="chooseOption(option.correct)"><button>{{option.name}}</button></li>
+        </ul>
+    </div>
+    <div  class="result">
+        <h1>{{resultStat}}</h1>
+        <p>{{result}}</p>
+        <img src="{{resultImg}}">
+    </div>
+</div>
